@@ -1,5 +1,6 @@
 # Sistema SQL fictício de um Restaurante :black_medium_square:
 
+### Atividade desafio em SQL que consiste desde a analise dos requisitos até a criação de triggers para resolver questões encontradas no = > PDF
 Repositório dedicado a mostrar um trabalho feito em companhia a dois amigos da faculdade, nele podemos encontrar modelos de estrutura de um banco de dados. :envelope_with_arrow:
 
 - Análise de Requisitos (.PDF)
