@@ -16,7 +16,6 @@ Repositório dedicado a mostrar um trabalho feito em companhia a dois amigos da 
 
   ### Tecnologias utilizadas : :rocket:
 
-  - Notepad ++
   - VirtualBox 
   - SQLServer
   - BrModel
