@@ -5,25 +5,16 @@
 > Repositório dedicado a mostrar um trabalho feito em ```SQL Server``` :envelope_with_arrow:
 
 #### *Arquivo* <extensão arquivo>
-- Análise de Requisitos (.PDF)
+- Restaurante_Requisitos (.PDF)
 
-- Modelo Conceitual (.brM3)
+- Restaurante_Conceitual (.brM3)
 
-- Modelo Lógico (.brM3)
+- Restaurante_Lógico (.brM3)
 
-- Modelo Físico (.sql) 
+- Restaurante_Físico (.sql) 
 
   ## O que aprendi? 
 
   - Consultas em SQL. 
   - Análise de requisitos com detalhamento
   - Modelagem a nível de um Banco de dados "*Real*"
-
-  
-
-  
-
-
-
-
-
