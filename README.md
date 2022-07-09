@@ -1,8 +1,10 @@
 # Sistema SQL fictício de um Restaurante :black_medium_square:
 
-### Atividade desafio em SQL que consiste desde a analise dos requisitos até a criação de triggers para resolver questões encontradas no = > PDF
-Repositório dedicado a mostrar um trabalho feito em companhia a dois amigos da faculdade, nele podemos encontrar modelos de estrutura de um banco de dados. :envelope_with_arrow:
+> Atividade desafio em SQL que consiste desde a analise dos requisitos até a criação de triggers para resolver questões encontradas no ```PDF``` <br>
+> Feito a partir do modelo de negócio de um Restaurante 🍽. <br>
+> Repositório dedicado a mostrar um trabalho feito em ```SQL Server``` :envelope_with_arrow:
 
+#### *Arquivo* <extensão arquivo>
 - Análise de Requisitos (.PDF)
 
 - Modelo Conceitual (.brM3)
@@ -11,21 +13,11 @@ Repositório dedicado a mostrar um trabalho feito em companhia a dois amigos da 
 
 - Modelo Físico (.sql) 
 
-  
+  ## O que aprendi? 
 
-  Feito a partir do modelo de negócio de um Restaurante. :books:
-
-  ### Tecnologias utilizadas : :rocket:
-
-  - VirtualBox 
-  - SQLServer
-  - BrModel
-
-  ### O que aprendi?  :man_student:
-
-  - Consultas de alto nível em SQL. 
-  - Análise​ de requisitos bem detalhado
-  - Construção de um Banco de Dados "real".
+  - Consultas em SQL. 
+  - Análise de requisitos com detalhamento
+  - Modelagem a nível de um Banco de dados "*Real*"
 
   
 
